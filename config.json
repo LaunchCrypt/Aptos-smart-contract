@@ -1,0 +1,7 @@
+{
+    "struct": "Pump1",
+    "name": "Pump1",
+    "symbol": "Pump1",
+    "decimals": 8,
+    "monitor_supply": true
+  }
